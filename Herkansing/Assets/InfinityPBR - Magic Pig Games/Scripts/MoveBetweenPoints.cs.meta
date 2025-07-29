@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 96bf7eba4e3b748d4a38a216fcf15485
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 269308
+  packageName: Portrait Avatars - 1st Person 2D / 3D Portrait Tool for FPS / RPG
+    Games
+  packageVersion: 1.1
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Scripts/MoveBetweenPoints.cs
+  uploadId: 716583
